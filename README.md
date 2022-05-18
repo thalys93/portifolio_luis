@@ -19,6 +19,6 @@ social link's
 
 ![image](https://user-images.githubusercontent.com/102838847/168946716-ecedd4f0-c1cc-4682-9a64-f36876129d33.png)
 --
--atualizar curriculo
--criar perfil profissional? (é necessário?)
--atualizar linkedin com as ultimas informações e link do site
+- atualizar curriculo
+- criar perfil profissional? (é necessário?)
+- atualizar linkedin com as ultimas informações e link do site
