@@ -4,7 +4,6 @@ Site Criado com uma ideia sem nenhuma expectativa, mas que está evoluindo confo
 - HTML (principal, adicionado) 
 - CSS (adicionado, atualizado com o boostrap studio 17.05.22)
   -  JavaScript (adicionado junto com o boostrap studio)
-- PHP (planos para adicionar?) 
 
 ### Algumas Imagens de como O Site portifolio se comporta 
 
